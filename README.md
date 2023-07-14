@@ -11,7 +11,7 @@ With 5 years of experience in web development, I have honed my skills in buildin
 * ✉️  You can contact me at [yevhenii\_kyrmyzy@icloud.com](mailto:yevhenii_kyrmyzy@icloud.com)
 * 🚀  I'm currently working on [Vantazh](http://vantazh.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm learned multiplication table at age 5
+* ⚡  I have learned multiplication table at age 5
 
 ### Skills
 
